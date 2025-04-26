@@ -1,32 +1,62 @@
-TABLEAU DASHBOARD  LINK :
+🔗 **Tableau Dashboard Link:**  
+[Click Here to View Dashboard](https://public.tableau.com/app/profile/csk.praneetha2781/viz/e-commreturnanalysis/Dashboard1)
 
-https://public.tableau.com/app/profile/csk.praneetha2781/viz/e-commreturnanalysis/Dashboard1
+# **E-Commerce Return Rate Reduction Analysis**
 
+### **Introduction**
+In today's rapidly growing e-commerce landscape, managing product returns is crucial for profitability. Understanding why customers return products helps in strategizing better inventory, logistics, and customer experience. This project focuses on analyzing the return patterns and proposing solutions to minimize return rates.
 
-E- COMMERCE RETURNS
- We have 2539 rows in total that have returned items details correctly.
- 611 people returned items because they “changed their mind”. But most of the people have returned because the piece they received is defective
- City62 returns most number of items are returned.(city41 is least)
- People who choose credit card as payment method return products more
- Total returned value - 1970060.26
- RETURNED VALUES BY AGE GROUP-BY PEOPLE UNDER 20 MOSTLY RETURNS
-Age_Group Total_Returned_Value
-0 20-29 354665.15
-1 30-39 379404.05
-2 40-49 361756.58
-3 50-59 396797.13
-4 60 and above 417538.87
-5 Under 20 59898.48
- MEN RETURN MORE THAN FEMALE IN VALUE BUT FEMALE REMOVE MORE NUMBER OF ITEMS
- Most expensive item returned are electronic items
- Books are returned the most in all the products.
- Returns increased while compared to last year.
-Year Return_Count
-2023 645
-2024 1894
-SUGGESTIONS :
- TRY TO REDUCE THE RETURNS IN 2025.
- REMOVE RETURNS FOR BOOKS BECAUSE THEY ARE PROBABLY READ AND RETURNING IT OR REDUCE THE RETURN TIMING TO 1DAY.
- DOUBLE VERIFY FOR AGE GROUP OF LESS THAN 20 TO CONFIRM THEIR ORDERS.
- AWAIL REGION WISE ALLOWANCE TO REDUCE LOSS OF RETURN MONEY.
- IMPROVE QUALITY OF PRODUCTS AND CHECK BEFORE DISPATCH TO REDUCE THE RETURNS DUE TO DAMAGE.
+### **Abstract**
+We analyzed 2,539 returned product records. Key findings include:
+- 611 customers returned products because they "changed their mind," but the majority returned due to defective products.
+- **City62** recorded the highest number of returns, while **City41** had the least.
+- Customers who chose **credit cards** as a payment method returned products more often.
+- The **total returned value** was ₹1,970,060.26.
+- **Age Group-wise Returned Values:**
+  | Age Group | Total Returned Value |
+  |-----------|-----------------------|
+  | Under 20  | 59,898.48              |
+  | 20-29     | 354,665.15             |
+  | 30-39     | 379,404.05             |
+  | 40-49     | 361,756.58             |
+  | 50-59     | 396,797.13             |
+  | 60 and above | 417,538.87         |
+- Men return products of **higher value**, but **women return more items in number**.
+- **Electronics** are the most expensive items returned.
+- **Books** are the most commonly returned products overall.
+- Return rates increased significantly year-over-year:
+  | Year  | Return Count |
+  |-------|--------------|
+  | 2023  | 645          |
+  | 2024  | 1,894        |
+
+### **Tools Used**
+- Tableau (for dashboards and data visualization)
+- Python (for data preprocessing)
+- SQL (for data cleaning and aggregation)
+
+### **Steps Involved**
+1. Imported and cleaned the raw return dataset.
+2. Analyzed return reasons and categorized them.
+3. Segmented data based on city, age group, gender, payment method, and product category.
+4. Calculated return values and counts.
+5. Performed year-on-year comparison for return volumes.
+6. Created an interactive Tableau dashboard to visualize all key insights.
+7. Compiled actionable suggestions based on the findings.
+
+### **Conclusion**
+The analysis revealed critical patterns contributing to high return rates. Based on the findings, the following suggestions are proposed:
+
+### **Suggestions:**
+- TRY TO REDUCE THE RETURNS IN 2025.
+- REMOVE RETURNS FOR BOOKS BECAUSE THEY ARE PROBABLY READ AND RETURNING IT OR REDUCE THE RETURN TIMING TO 1 DAY.
+- DOUBLE VERIFY FOR AGE GROUP OF LESS THAN 20 TO CONFIRM THEIR ORDERS.
+- AWAIL REGION-WISE ALLOWANCE TO REDUCE LOSS OF RETURN MONEY.
+- IMPROVE QUALITY OF PRODUCTS AND CHECK BEFORE DISPATCH TO REDUCE THE RETURNS DUE TO DAMAGE.
+
+---
+🔗 **Tableau Dashboard Link:**  
+[Click Here to View Dashboard](https://public.tableau.com/app/profile/csk.praneetha2781/viz/e-commreturnanalysis/Dashboard1)
+
+---
+
