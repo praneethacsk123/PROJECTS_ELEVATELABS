@@ -1,0 +1,32 @@
+TABLEAU DASHBOARD  LINK :
+
+https://public.tableau.com/app/profile/csk.praneetha2781/viz/e-commreturnanalysis/Dashboard1
+
+
+E- COMMERCE RETURNS
+ We have 2539 rows in total that have returned items details correctly.
+ 611 people returned items because they “changed their mind”. But most of the people have returned because the piece they received is defective
+ City62 returns most number of items are returned.(city41 is least)
+ People who choose credit card as payment method return products more
+ Total returned value - 1970060.26
+ RETURNED VALUES BY AGE GROUP-BY PEOPLE UNDER 20 MOSTLY RETURNS
+Age_Group Total_Returned_Value
+0 20-29 354665.15
+1 30-39 379404.05
+2 40-49 361756.58
+3 50-59 396797.13
+4 60 and above 417538.87
+5 Under 20 59898.48
+ MEN RETURN MORE THAN FEMALE IN VALUE BUT FEMALE REMOVE MORE NUMBER OF ITEMS
+ Most expensive item returned are electronic items
+ Books are returned the most in all the products.
+ Returns increased while compared to last year.
+Year Return_Count
+2023 645
+2024 1894
+SUGGESTIONS :
+ TRY TO REDUCE THE RETURNS IN 2025.
+ REMOVE RETURNS FOR BOOKS BECAUSE THEY ARE PROBABLY READ AND RETURNING IT OR REDUCE THE RETURN TIMING TO 1DAY.
+ DOUBLE VERIFY FOR AGE GROUP OF LESS THAN 20 TO CONFIRM THEIR ORDERS.
+ AWAIL REGION WISE ALLOWANCE TO REDUCE LOSS OF RETURN MONEY.
+ IMPROVE QUALITY OF PRODUCTS AND CHECK BEFORE DISPATCH TO REDUCE THE RETURNS DUE TO DAMAGE.
