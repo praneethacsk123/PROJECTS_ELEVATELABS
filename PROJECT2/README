@@ -1,2 +1,38 @@
+TABLEAU DASHBOARD:
+https://public.tableau.com/app/profile/csk.praneetha2781/viz/Book1_17459293325810/LISTING
+Data Analysis of Airbnb Listings
+Author: C.S.K.PRANEETHA
+Date: 30-04-2025
+Introduction
+This project focuses on analyzing Airbnb listings data to uncover patterns in pricing, availability, and host behavior. The primary goal is to understand the factors that influence listing popularity and price, and to provide insights that could benefit both hosts and potential guests.
+Abstract
+The project explores a dataset of Airbnb listings with attributes such as location, room type, price, number of reviews, availability, and host details. Using Python and SQL, I performed data cleaning, exploration, and visualization. The analysis revealed trends in price variation by location and room type, review counts affecting popularity, and seasonal availability. These insights can support hosts in optimizing their listings and help customers make informed decisions.
+Tools Used
+- Python – For data cleaning, analysis, and visualization (pandas, matplotlib, seaborn).
+- SQLite – To run queries on the dataset for filtering and grouping.
+- Jupyter Notebook – For interactive development and data visualization.
+- GitHub – To maintain version control and share the project.
+- Excel (optional) – Used for a quick overview of raw data.
+Steps Involved
+1. Data Collection:
+   The Airbnb listings dataset was imported into a SQLite database and also loaded into pandas for manipulation.
 
-a
+2. Data Cleaning & Preprocessing:
+   - Removed listings with missing prices or invalid values.
+   - Converted data types (e.g., price to float, date fields).
+   - Normalized location data and removed duplicates.
+
+3. Exploratory Data Analysis:
+   - Investigated price distributions, number of reviews, and room types.
+   - Mapped listing density across neighborhoods.
+   - Analyzed correlations between reviews, price, and availability.
+
+5. Data Visualization:
+   - Bar plots and histograms to show price and listing types.
+   - Heatmaps for price correlation.
+   - Scatter plots to understand review and price relationships.
+
+6. Insights Derived:
+   
+Conclusion
+The Airbnb data analysis project demonstrated how structured data exploration can yield valuable insights for stakeholders. By understanding key factors such as location, price, and room type, hosts can better position their listings to attract more guests. This project strengthened my data analytics skills and highlighted the power of SQL and Python for real-world problem-solving.
